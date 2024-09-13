@@ -1,5 +1,5 @@
-<div>
-<a href="https://github.com/diegoNZ04">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoNZ04&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoNZ04&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+# Prazer, Diego!
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/diego-amorim-701589190" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## Hello, Devs!!
+
+ - 📕 Estudante de Engenharia da Programação
