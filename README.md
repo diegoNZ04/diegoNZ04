@@ -5,7 +5,7 @@
 ## Prazer, Diego!
 
  - 📕 Estudante de Engenharia da Computação
- - 💻 Desenvolvimento Back-End
+ - 💻 Desenvolvimento Web FullStack
  - 🌊 Santos, SP
 
 ## Ferramentas e Tecnologias
